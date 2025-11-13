@@ -10,23 +10,19 @@ The page features sections for voting, gallery, music highlights, and a personal
 ## 📸 Preview
 
 ### Homepage  
-![Homepage Preview](pic/Monya.jpeg)
+![Homepage Preview](pic/ss/hero.png)
 
 ### Gallery  
-| ![Gallery 1](pic/foto/foto1.jpeg) | ![Gallery 2](pic/foto/foto2.jpeg) | ![Gallery 3](pic/foto/foto3.jpeg) |  
-|-----------------------------------|-----------------------------------|-----------------------------------|
-| ![Gallery 4](pic/foto/foto4.jpeg) | ![Gallery 5](pic/foto/foto5.jpeg) |                                   |
+ ![Gallery 1](pic/ss/gallery.png)
 
 ### Profile  
-![Profile Photo](pic/profil_pic.png)
+![Profile Photo](pic/ss/profile.png)
 
 ---
 
 ## 🎵 Music Section
 
-| ![Track 1](pic/music_pic/music1.png) | ![Track 2](pic/music_pic/music2.png) | ![Track 3](pic/music_pic/music3.png) |
-|--------------------------------------|--------------------------------------|--------------------------------------|
-| ![Track 4](pic/music_pic/music4.png) | ![Track 5](pic/music_pic/music5.png) |                                      |
+[Track 1](pic/ss/music.png)                                      |
 
 Monya’s featured songs include **Vangelis**, **Malice Mizer**, **Mac DeMarco**, **Man I Trust**, and **Fujii Kaze** — echoing her calm and nostalgic aesthetics.
 
