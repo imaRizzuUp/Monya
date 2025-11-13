@@ -22,7 +22,7 @@ The page features sections for voting, gallery, music highlights, and a personal
 
 ## 🎵 Music Section
 
-[Track 1](pic/ss/music.png)                                      |
+![Track 1](pic/ss/music.png)                                      |
 
 Monya’s featured songs include **Vangelis**, **Malice Mizer**, **Mac DeMarco**, **Man I Trust**, and **Fujii Kaze** — echoing her calm and nostalgic aesthetics.
 
