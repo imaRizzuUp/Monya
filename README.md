@@ -15,14 +15,15 @@ The page features sections for voting, gallery, music highlights, and a personal
 ### Gallery  
  ![Gallery 1](pic/ss/gallery.png)
 
+## 🎵 Music Section
+
+![Track 1](pic/ss/music.png)  
+
 ### Profile  
 ![Profile Photo](pic/ss/profile.png)
 
 ---
-
-## 🎵 Music Section
-
-![Track 1](pic/ss/music.png)                                      |
+                                    |
 
 Monya’s featured songs include **Vangelis**, **Malice Mizer**, **Mac DeMarco**, **Man I Trust**, and **Fujii Kaze** — echoing her calm and nostalgic aesthetics.
 
